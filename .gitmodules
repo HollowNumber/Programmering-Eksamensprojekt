@@ -1,3 +1,6 @@
 [submodule "Synopsis"]
     path = Synopsis
     url = https://github.com/HollowNumber/Programmeringeksamen-Synopsis
+[submodule "Program"]
+    path = Program
+    url = https://github.com/S3bTheGuy/schoolday-planner
