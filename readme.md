@@ -7,8 +7,8 @@ Udviklet af Mikkel Helding Pedersen & Sebastian Faber Steffensen
 
 For at optimere projektstyring anvender vi submoduler. Dette hovedrepository fungerer som et startpunkt for vores eksamensprojekt.
 
-- [Program](Program/): Her finder du kodebasen for vores produkt "SchedulePlanner".
-- [Synopsis](Synopsis/): Indeholder repository for vores rapport, inklusive den senest kompilerede version.
+- [Program](https://github.com/S3bTheGuy/schoolday-planner/tree/main): Her finder du kodebasen for vores produkt "SchedulePlanner".
+- [Synopsis](https://github.com/HollowNumber/Programmeringeksamen-Synopsis/tree/main): Indeholder repository for vores rapport, inklusive den senest kompilerede version.
 
 ## Brug af logbook.py
 
