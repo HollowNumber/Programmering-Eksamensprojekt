@@ -1,4 +1,10 @@
-# Logbog
+---
+title: %TITLE%
+author: %AUTHOR%
+date: %DATO%
+---
+
+# %TITLE%
 
 Skrevet af: %AUTHOR%
 
